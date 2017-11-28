@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calcolatrice</string>
+    <string name="som">somma</string>
+    <string name="sot">sottrazione</string>
+    <string name="div">divisione</string>
+    <string name="mol">moltiplicazione</string>
+    <string name="can">cancel</string>
+</resources>
