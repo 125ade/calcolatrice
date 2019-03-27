@@ -15,3 +15,8 @@ calcolatrice scientifica per le operazioni base
 - coseno
 - tangente
 - numeri pre impostati: **e** ; **PI**
+
+
+## licenza
+
+licenza utilizzata per il progetto [**MIT**](https://github.com/125ade/calcolatrice/blob/master/LICENSE)
